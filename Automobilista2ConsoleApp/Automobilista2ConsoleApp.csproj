@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="AMS2SharedMemoryNet">
+      <HintPath>libs\AMS2SharedMemoryNet.dll</HintPath>
+    </Reference>
+    <Reference Include="TrueGearSDK">
+      <HintPath>libs\TrueGearSDK.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

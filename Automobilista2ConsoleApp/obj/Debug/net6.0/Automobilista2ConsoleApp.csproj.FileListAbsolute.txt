@@ -1,0 +1,14 @@
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\bin\Debug\net6.0\Automobilista2ConsoleApp.exe
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\bin\Debug\net6.0\Automobilista2ConsoleApp.deps.json
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\bin\Debug\net6.0\Automobilista2ConsoleApp.runtimeconfig.json
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\bin\Debug\net6.0\Automobilista2ConsoleApp.dll
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\bin\Debug\net6.0\Automobilista2ConsoleApp.pdb
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\obj\Debug\net6.0\Automobilista2ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\obj\Debug\net6.0\Automobilista2ConsoleApp.AssemblyInfoInputs.cache
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\obj\Debug\net6.0\Automobilista2ConsoleApp.AssemblyInfo.cs
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\obj\Debug\net6.0\Automobilista2ConsoleApp.csproj.CoreCompileInputs.cache
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\obj\Debug\net6.0\Automobilista2ConsoleApp.dll
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\obj\Debug\net6.0\refint\Automobilista2ConsoleApp.dll
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\obj\Debug\net6.0\Automobilista2ConsoleApp.pdb
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\obj\Debug\net6.0\Automobilista2ConsoleApp.genruntimeconfig.cache
+F:\_ModProject\Automobilista2\Automobilista2ConsoleApp\Automobilista2ConsoleApp\obj\Debug\net6.0\ref\Automobilista2ConsoleApp.dll
